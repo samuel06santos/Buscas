@@ -1,2 +1,2 @@
 # Buscas
- Tipo de buscas e seus bônus.
+### Tipos de buscas e seus bônus.
